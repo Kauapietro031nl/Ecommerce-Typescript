@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc-watch --onSuccess \"node --no-deprecation --env-file=.env ./lib/index.js\""
+  },
+  "keywords": [],
+  "author": "kauã pietro",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "celebrate": "^15.0.3",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "firebase": "^11.6.0",
+    "firebase-admin": "^13.2.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.8",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.14",
+    "tsc-watch": "^6.2.1",
+    "typescript": "^5.8.2"
+  }
+}
