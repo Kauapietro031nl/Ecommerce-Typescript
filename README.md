@@ -88,5 +88,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💙 por [@Kauapietro031nl](https://github.com/Kauapietro031nl)
+Projeto em contrução,Feito com 💙 por [@Kauapietro031nl](https://github.com/Kauapietro031nl)
 
