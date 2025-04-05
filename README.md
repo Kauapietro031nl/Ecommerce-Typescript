@@ -79,7 +79,7 @@ npm install
 4. Rode a aplicação:
 
 ```bash
-npm run dev
+npm start
 ```
 
 ## 📄 Licença
